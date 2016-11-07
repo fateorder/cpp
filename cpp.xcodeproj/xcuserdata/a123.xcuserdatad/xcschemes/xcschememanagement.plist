@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Iterator.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>algo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -19,6 +24,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>functors.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 		<key>nowcoder.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -28,6 +38,16 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>9D2F172F1DD02CAF00CA617F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9D2F176B1DD0A2B600CA617F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9D2F177A1DD0B77300CA617F</key>
 		<dict>
 			<key>primary</key>
 			<true/>

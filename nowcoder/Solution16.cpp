@@ -1,16 +1,23 @@
+//
+//  Solution16.cpp
+//  cpp
+//
+//  Created by Feast on 2016/11/7.
+//  Copyright © 2016年 Feast. All rights reserved.
+//
+
 #include <iostream>
 #include <map>
-
 using namespace std;
 
 int main()
 {
-    //map<int, int> union_table;//one 若定义在while外边，即使用多次，需要clear
     int count;
     int index, value;
+    
     while (cin >> count)
     {
-        map<int, int> union_table;//two
+        map<int, int> union_table;
         while (cin >> index >> value)
         {
             if (union_table.find(index) != union_table.end())
@@ -26,8 +33,10 @@ int main()
         }
         //union_table.clear();//one
     }
-    
-    
-    //system("pause");
     return 0;
 }
+
+
+
+
+
