@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		9D2F173A1DD033F400CA617F /* Solution1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9D2F17391DD033F400CA617F /* Solution1.cpp */; };
 		9D2F173C1DD039BD00CA617F /* Solution2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9D2F173B1DD039BD00CA617F /* Solution2.cpp */; };
-		9D2F17501DD05ED300CA617F /* Solution10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9D2F174F1DD05ED300CA617F /* Solution10.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -66,6 +65,10 @@
 		9D2F174A1DD05BB000CA617F /* Solution8.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Solution8.cpp; sourceTree = "<group>"; };
 		9D2F174D1DD05DB300CA617F /* Solution9.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Solution9.cpp; sourceTree = "<group>"; };
 		9D2F174F1DD05ED300CA617F /* Solution10.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Solution10.cpp; sourceTree = "<group>"; };
+		9D2F17511DD062D800CA617F /* Solution11.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Solution11.cpp; sourceTree = "<group>"; };
+		9D2F17531DD0644700CA617F /* Solution12.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Solution12.cpp; sourceTree = "<group>"; };
+		9D2F17551DD069E600CA617F /* Solution13.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Solution13.cpp; sourceTree = "<group>"; };
+		9D2F17571DD06E4E00CA617F /* Solution14.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Solution14.cpp; sourceTree = "<group>"; };
 		9D492B0B1DA2343800401573 /* cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = cpp; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D492B0E1DA2343800401573 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		9D7D6CE31DCCD68400DCCE70 /* vector1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = vector1.cpp; sourceTree = "<group>"; };
@@ -165,6 +168,10 @@
 				9D2F17461DD058C200CA617F /* Solution6.cpp */,
 				9D2F174D1DD05DB300CA617F /* Solution9.cpp */,
 				9D2F174F1DD05ED300CA617F /* Solution10.cpp */,
+				9D2F17511DD062D800CA617F /* Solution11.cpp */,
+				9D2F17531DD0644700CA617F /* Solution12.cpp */,
+				9D2F17551DD069E600CA617F /* Solution13.cpp */,
+				9D2F17571DD06E4E00CA617F /* Solution14.cpp */,
 				9D2F17481DD059BE00CA617F /* Solution7.cpp */,
 				9D2F174A1DD05BB000CA617F /* Solution8.cpp */,
 				9D2F17441DD056F500CA617F /* Solution5.cpp */,
@@ -387,7 +394,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D2F173A1DD033F400CA617F /* Solution1.cpp in Sources */,
-				9D2F17501DD05ED300CA617F /* Solution10.cpp in Sources */,
 				9D2F173C1DD039BD00CA617F /* Solution2.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -589,6 +595,7 @@
 				9D2F17351DD02CAF00CA617F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D492B061DA2343800401573 /* Build configuration list for PBXProject "cpp" */ = {
 			isa = XCConfigurationList;
