@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		9D2F173A1DD033F400CA617F /* Solution1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9D2F17391DD033F400CA617F /* Solution1.cpp */; };
 		9D2F173C1DD039BD00CA617F /* Solution2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9D2F173B1DD039BD00CA617F /* Solution2.cpp */; };
-		9D2F178A1DD0C65000CA617F /* fopow.hpp in Sources */ = {isa = PBXBuildFile; fileRef = 9D2F17891DD0C65000CA617F /* fopow.hpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -103,6 +102,13 @@
 		9D2F17851DD0BBEC00CA617F /* foreach3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = foreach3.cpp; sourceTree = "<group>"; };
 		9D2F17871DD0C1D500CA617F /* memfunla.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = memfunla.cpp; sourceTree = "<group>"; };
 		9D2F17891DD0C65000CA617F /* fopow.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = fopow.hpp; sourceTree = "<group>"; };
+		9D2F178B1DD15A8800CA617F /* compose11.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = compose11.hpp; sourceTree = "<group>"; };
+		9D2F178D1DD15C1600CA617F /* compose1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = compose1.cpp; sourceTree = "<group>"; };
+		9D2F178F1DD15DBC00CA617F /* compose21.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = compose21.hpp; sourceTree = "<group>"; };
+		9D2F17911DD1601600CA617F /* compose2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = compose2.cpp; sourceTree = "<group>"; };
+		9D2F17931DD190A100CA617F /* compose22.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = compose22.hpp; sourceTree = "<group>"; };
+		9D2F17951DD191FD00CA617F /* compose3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = compose3.cpp; sourceTree = "<group>"; };
+		9D2F17991DD19A5B00CA617F /* algorithm0.markdownd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = algorithm0.markdownd; sourceTree = "<group>"; };
 		9D492B0B1DA2343800401573 /* cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = cpp; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D492B0E1DA2343800401573 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		9D7D6CE31DCCD68400DCCE70 /* vector1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = vector1.cpp; sourceTree = "<group>"; };
@@ -250,6 +256,12 @@
 				9D2F17851DD0BBEC00CA617F /* foreach3.cpp */,
 				9D2F17871DD0C1D500CA617F /* memfunla.cpp */,
 				9D2F17891DD0C65000CA617F /* fopow.hpp */,
+				9D2F178B1DD15A8800CA617F /* compose11.hpp */,
+				9D2F178F1DD15DBC00CA617F /* compose21.hpp */,
+				9D2F17931DD190A100CA617F /* compose22.hpp */,
+				9D2F17911DD1601600CA617F /* compose2.cpp */,
+				9D2F17951DD191FD00CA617F /* compose3.cpp */,
+				9D2F178D1DD15C1600CA617F /* compose1.cpp */,
 			);
 			path = functors;
 			sourceTree = "<group>";
@@ -345,6 +357,7 @@
 			isa = PBXGroup;
 			children = (
 				9DF4555C1DCF4F8900CB040A /* algostuff.hpp */,
+				9D2F17991DD19A5B00CA617F /* algorithm0.markdownd */,
 				9DF4555E1DCF51B200CB040A /* foreach1.cpp */,
 			);
 			path = algo;
@@ -532,7 +545,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9D2F178A1DD0C65000CA617F /* fopow.hpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

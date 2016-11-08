@@ -1,0 +1,76 @@
+1. nonmodifying algorithms
+    for_each()
+    count()         count_if()
+    max_element()   min_element()
+    find()          find_if()
+    search()        search_if()
+    find_end()      find_first_of()
+    adjacent_find() equal()
+    mismatch()      lexicographical_compare()
+
+2. modifying algorithms
+    for_each()
+    copy()          copy_backward()
+    transform()     merge()
+    swap_ranges()
+    fill()          fill_n()
+    generate()      generate_n()
+    replace()       replave_if()
+    replace_copy()  replace_copy_if()
+
+3. Removing algorithms
+    remove()
+    remove_if()
+    remove_copy()
+    remove_copy_if()
+    unique()
+    unique_copy()
+
+4. Mutating algorithms
+    reverse()           reverse_copy()
+    rotate()            rotate_copy()
+    next_permutation()  prev_permutation()
+    random_shuffle()
+    partition()         stable_partition()
+
+5. Sorting algorithms
+    sort()               quicksort      n * log(n)      n * n
+    stable_sort()        mergesort      n * log(n)[enough mem]  or  n * log(n) * log(n)
+    partial_sort()       heapsort       n * log(n)[always] twice as long as sort()[usually]
+    partial_sort_copy()
+    nth_element()
+    partition()
+    stable_partition()
+    make_heap()                         n + log(n)
+    push_heap()
+    pop_heap()
+    sort_heap()                         n + log(n)
+
+6.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
