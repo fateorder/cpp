@@ -46,7 +46,25 @@
     pop_heap()
     sort_heap()                         n + log(n)
 
-6.
+6. Sorted Range algorithms
+    binary_search()
+    includes()
+    lower_bound()
+    upper_bound()
+    equal_range()
+    merge()
+    set_intersection()
+    set_different()
+    set_symmetric_difference()
+    inplace_merge()
+
+7. Numeric algorithms
+    accumulate()
+    inner_product()
+    adjacent_difference()
+    patrial_sum()
+
+
 
 
 
