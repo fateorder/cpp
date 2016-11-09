@@ -19,6 +19,11 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>cont.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
 		<key>cpp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -28,6 +33,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>5</integer>
+		</dict>
+		<key>io.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
 		</dict>
 		<key>newcoder01.xcscheme</key>
 		<dict>
@@ -63,6 +73,16 @@
 			<true/>
 		</dict>
 		<key>9D492B0A1DA2343800401573</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9D77D7261DD3269200BB5CDF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9D77D7331DD3334400BB5CDF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
