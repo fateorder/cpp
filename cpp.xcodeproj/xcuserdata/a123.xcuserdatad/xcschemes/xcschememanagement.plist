@@ -44,6 +44,11 @@
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
+		<key>newcoder03.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
 		<key>newcoder2.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -78,6 +83,11 @@
 			<true/>
 		</dict>
 		<key>9D492B0A1DA2343800401573</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9D5167661DD6F4DF004819FF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
