@@ -39,6 +39,11 @@
 			<key>orderHint</key>
 			<integer>8</integer>
 		</dict>
+		<key>nc05.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
 		<key>newcoder01.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -48,6 +53,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>10</integer>
+		</dict>
+		<key>newcoder04.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
 		</dict>
 		<key>newcoder2.xcscheme</key>
 		<dict>
@@ -62,6 +72,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>9D18AA2C1DD9FEC200883896</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>9D2F172F1DD02CAF00CA617F</key>
 		<dict>
 			<key>primary</key>
@@ -78,6 +93,11 @@
 			<true/>
 		</dict>
 		<key>9D2F179E1DD1C87700CA617F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9D40C6A61DDC149B003F0AEC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
